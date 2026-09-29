@@ -1,0 +1,7 @@
+This is a sample document with sensitive information.
+
+Name: John Doe
+Email: john@example.com
+Phone: +1-234-567-8900
+
+This document should be encrypted for security.
